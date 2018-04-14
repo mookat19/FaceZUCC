@@ -1,6 +1,6 @@
 # FaceZUCC
 
-<img src="https://z1035.com/wp-content/uploads/2018/03/Mark-Zuckerberg-FB-profile-pic.jpg" width="132" height="132">
+<img src="https://i.imgur.com/cyzY1nA.jpg" width="355" height="286">
 
 We are all aware of Mark Zuckerberg's testimony to congress, made in April 2018.
 
