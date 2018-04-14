@@ -18,7 +18,7 @@ And as much as people like to say that they know that, and that they are the pro
 
 So I thought of a simple solution that will pass the message clear.
 
-Introducing ***FaceZUCC*** *by Idoideas*, a Chrome extension that turns each of your friends & pages in your Facebook window into Mark Zuckerberg's profile. 
+Introducing ***FaceZUCC*** *by Idoideas*, a Chrome extension that turns all the friends & pages in your Facebook window into Mark Zuckerberg's profile. 
 
 ## Download
 
