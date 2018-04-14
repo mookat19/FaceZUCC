@@ -20,7 +20,7 @@ Introducing ***FaceZUCC*** *by Idoideas*, a Chrome extension that turns each of 
 
 ## Download
 
-You can *download the latests CRX right here*.
+You can [download the latest CRX right here](https://github.com/idoideas/FaceZUCC/raw/master/FaceZUCC.crx).
 
 *Coming soon: official Chrome Web Store download.*
 
