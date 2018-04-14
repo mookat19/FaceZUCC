@@ -49,9 +49,10 @@ In order to stop it, do the same, with clicking on "Disable FaceZUCC".
 
 1. This project is open-source and free to use by everyone, including modifying. However, please don't to malicous things with it.
 2. I don't collect any information from your Facebook, as you can see in the code.
-3. Senator, we don't run ads. If you enjoyed the project and have the option, please consider a donation.
-4. Issues and feature requests are always welcomed through the Issue Tracker here on Github or through E-mail (written below).
-5. There will always will be a free version of FaceZUCC.
+3. Known issue: If you refresh the Facebook page using the refresh button or F5, the extension will stop working. Disable and enable it again.
+4. Senator, we don't run ads. If you enjoyed the project and have the option, please consider a donation.
+5. Issues and feature requests are always welcomed through the Issue Tracker here on Github or through E-mail (written below).
+6. There will always will be a free version of FaceZUCC.
 
 ## Screenshots
 
