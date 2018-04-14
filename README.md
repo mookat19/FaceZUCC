@@ -29,7 +29,7 @@ You can *download the latests CRX right here*.
 ## How To Install
 
 If you downloaded the CRX file:
-1. Go to [Chrome's Extensions Menu](chrome://extensions/).
+1. Go to Chrome's Extensions Menu (Insert "chrome://extensions/" in the address bar).
 2. Drag the CRX file to the window.
 3. In the popup window, click on "Add Extension".
 4. The extension will be added to your toolbar (that little Zuckerberg icon).

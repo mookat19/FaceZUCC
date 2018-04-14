@@ -1,6 +1,6 @@
 {
     "name": "FaceZUCC",
-    "version": "0.2",
+    "version": "0.2.1",
     "description": "Turns all your facebook friends into Mark Zuckerberg, like in real life.",
     "permissions": ["activeTab", "declarativeContent", "storage", "tabs", "http://*/",
         "https://*/"],
