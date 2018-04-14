@@ -1,0 +1,57 @@
+  <!DOCTYPE html>
+  <html>
+    <head>
+          <!-- Compiled and minified CSS -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <style>
+        body{
+          width: 300px;
+          height: 300px;
+        }
+      </style>
+    </head>
+    <body>
+           <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+        <script src="buy.js"></script>
+              <form action="https://bitpay.com/checkout" target="_blank" method="post" id="bitpay-donation">
+        <input type="hidden" name="action" value="checkout" />
+        <input type="hidden" name="posData" value="" />
+        <input type="hidden" name="data" value="" />
+      </form>
+          <nav class="blue darken-4" role="navigation">
+        <div class="nav-wrapper container">
+          <a class="brand-logo" style="font-size: 20px;" id="logo-container" href="#">FaceZUCC</a>
+        </div>
+      </nav>
+      <div id="description" style="font-family: Arial; font-size: 15px; text-align: center;">
+      </br>
+        People are unaware of what data Facebook collects from their account.
+      </br>Would you like to find out?
+      </div>
+      </br>
+      <div class="row center">
+        <a id="facezucc-button" class="btn waves-effect waves-light orange" style="width: 200px;">Enable FaceZUCC</a>
+      </div>
+      <div class="row center">
+        <a id="donate-paypal" class="btn waves-effect waves-light blue" style="font-size: 11px;">Donate (PayPal)</a>
+        <a id="donate-bitpay" class="btn waves-effect waves-light blue" style="font-size: 11px;">Donate (BitPay)</a>
+      </div>
+      <form id="paypal-donation" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="encrypted" value="
+      ">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+      <div id="description2" style="font-family: Arial; font-size: 10px; text-align: center;">
+      </br>
+        Developed By Idoideas.
+      </br>
+        Find me on <a target="_blank" href="https://twitter.com/idoideas">Twitter</a> and <a target="_blank" href="https://www.reddit.com/user/idoideas">Reddit.</a>
+      </br>
+        Find this project's code on <a target="_blank" href="https://github.com/idoideas">Github</a> as free and open source for all.
+      </div>
+      <script src="popup.js"></script>
+    </body>
+  </html>
