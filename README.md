@@ -24,7 +24,7 @@ Introducing ***FaceZUCC*** *by Idoideas*, a Chrome extension that turns all the 
 
 You can [download the extension officially from the Chrome Web Store](https://chrome.google.com/webstore/detail/facezucc/lelmbedkbnipcfojmhmaondconbpooan).
 
-Developers\Experts can [download the latest CRX right here](https://github.com/idoideas/FaceZUCC/raw/master/FaceZUCC.crx), or load the entire extension unpacked.
+Developers \ Experts can [download the latest CRX right here](https://github.com/idoideas/FaceZUCC/raw/master/FaceZUCC.crx), or load the entire extension unpacked.
 
 **Requires Google Chrome for desktop computer.**
 
