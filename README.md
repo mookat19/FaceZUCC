@@ -22,19 +22,11 @@ Introducing ***FaceZUCC*** *by Idoideas*, a Chrome extension that turns all the 
 
 ## Download
 
-You can [download the latest CRX right here](https://github.com/idoideas/FaceZUCC/raw/master/FaceZUCC.crx).
+You can [download the extension officially from the Chrome Web Store](https://chrome.google.com/webstore/detail/facezucc/lelmbedkbnipcfojmhmaondconbpooan).
 
-*Coming soon: official Chrome Web Store download.*
+Developers\Experts can [download the latest CRX right here](https://github.com/idoideas/FaceZUCC/raw/master/FaceZUCC.crx), or load the entire extension unpacked.
 
 **Requires Google Chrome for desktop computer.**
-
-## How To Install
-
-If you downloaded the CRX file:
-1. Go to Chrome's Extensions Menu (Insert "chrome://extensions/" in the address bar).
-2. Drag the CRX file to the window.
-3. In the popup window, click on "Add Extension".
-4. The extension will be added to your toolbar (that little Zuckerberg icon).
 
 ## How to Enable
 
