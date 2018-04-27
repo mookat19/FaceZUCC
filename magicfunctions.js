@@ -1,4 +1,4 @@
-var MARK_IMAGE = "http://www.currentriggers.com/wp-content/uploads/2016/03/Capture-12.png";
+var MARK_IMAGE = "https://i.imgur.com/aAm9WAu.jpg";
 
 
 function init() {
