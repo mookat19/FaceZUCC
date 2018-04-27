@@ -1,4 +1,4 @@
-var MARK_IMAGE = "https://scontent.ftlv6-1.fna.fbcdn.net/v/t34.0-12/16176889_112685309244626_578204711_n.jpg?oh=7a7692ffede7de9d5b9f207a0474ad58&oe=5AD233E8";
+var MARK_IMAGE = "http://www.currentriggers.com/wp-content/uploads/2016/03/Capture-12.png";
 
 
 function init() {
